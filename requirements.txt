@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+supabase
+google-generativeai
+diskcache
+langchain-community
